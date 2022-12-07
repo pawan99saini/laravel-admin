@@ -1,0 +1,11 @@
+{
+    "name": "Matrix",
+    "alias": "matrix",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Matrix\\Providers\\MatrixServiceProvider"
+    ],
+    "files": []
+}

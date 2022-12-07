@@ -1,0 +1,11 @@
+{
+    "name": "TraningType",
+    "alias": "traningtype",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TraningType\\Providers\\TraningTypeServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,23 @@
+{
+    "Roles": true,
+    "Admin": true,
+    "Role": true,
+    "Permission": true,
+    "Users": true,
+    "Staff": true,
+    "Attendance": true,
+    "Leave": true,
+    "Timesheet": true,
+    "Training": true,
+    "Matrix": true,
+    "Menu": true,
+    "Department": true,
+    "Holiday": true,
+    "Project": true,
+    "Shift": true,
+    "Schedule": true,
+    "Traning": true,
+    "Type": true,
+    "TraningType": true,
+    "Trainer": true
+}
